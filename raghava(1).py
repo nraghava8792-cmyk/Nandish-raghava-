@@ -1,3 +1,6 @@
+Name: Nandish raghava B S
+reg: KUB25EEE697
+
 #print all the numbers which are divisible by 3,5,8 from the list(1)
 '''numbers = [3, 10, 15, 54, 75, 25, 23]
 for num in numbers:
